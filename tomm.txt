@@ -1,0 +1,76 @@
+Training -- 40 hiurs training
+Check point
+Zoning .
+
+https://ibm.webex.com/meet/mevash.tadimarri
+
+ root
+isiL0n.014
+http://login.kyndryl.net/    2
+https://outlook.office.com/ email  3
+https://w3idprofile.sso.ibm.com/ 1
+iip@us.ibm.com
+
+
+Transition Notes ID:
+
+Notes Name and Domain:	 Mevash Tadimarri/AP/Ocean @ Ocean
+
+User Shortname	 IN001FH6
+
+ID filename	IN001FH6.ID
+
+Notes password:	niYL88$<ZKD[PSu
+
+	(Passwords are case sensitive and must be entered as shown)
+
+Notes ID File	
+
+
+i)truist training.
+2)tran pf kyndryl
+3)System lapatop
+4)web -kyndryl
+
+
+W3 : - https://w3.ibm.com/ocean/home/
+Work day : - https://wd5.myworkday.com/ibm/d/home.htmld
+Webex : - https://kyndryl.webex.com/webappng/sites/kyndryl/dashboard?siteurl=kyndryl&from_login=true
+Travel @ IBM : - https://w3.ibm.com/ocean/hr/web/travel/
+Learning : - https://kyndryl.yourlearning.ibm.com/
+Ask HR :  https://w3.kyndryl.net/hr/askhr/
+Udemy : - https://kyndryl.udemy.com/
+Slack : - https://kyndryl.enterprise.slack.com/?redir=%2Fr-t2264321203926%3Fredir%3D%252Fmessages
+OWA : - https://outlook.live.com/mail/0/inbox
+Help Desk : - https://help.ocean.ibm.com/help/#
+
+
+GA016SW20# sh zone | inc GA016F033	
+zone name GA016F033_5BCC_GA016PSVCCL1_IOG1_PS1 vsan 201	
+  fcalias name GA016F033_5BCC vsan 201	
+GA016SW20# sh zone name GA016F033_5BCC_GA016PSVCCL1_IOG1_PS1 a	
+zone name GA016F033_5BCC_GA016PSVCCL1_IOG1_PS1 vsan 201	
+* fcid 0x140016 [pwwn 50:05:07:68:01:40:63:fe] [GA016PCL1N3_P01]	
+* fcid 0x14001d [pwwn 50:05:07:68:01:40:64:2f] [GA016PCL1N4_P01]	
+  pwwn 50:01:43:80:12:0a:5b:cc
+
+https://time.ibm.com/week
+
+Sudhakar Vetsa  2:06 PM
+Hi Team...
+Pls find below the codes for non-productive, timeaway & vacation.
+https://w3.ibm.com/w3publisher/bms-kyndryl-transition/claiming-faq
+#16 What are the standard (non-productive, timeaway, vacation) codes for Kyndryl?
+ BMS
+No change, existing codes will also be used for Kyndryl -
+iERP
+M.70350 - TimeAway
+M.70349 - WW Learning 2
+M.70348 - Awaiting
+M.70346 - WW Unbilled
+M.70347 - No Hours worked - must enter 0.1
+IBMM.00556 - TimeAway
+M.00562/M.00563 - WW Learning
+M.00561 Awaiting WBS
+M.00557 - WW Unbilled
+M.00560 - No Hours worked - must enter 0.1	 
